@@ -1,0 +1,12 @@
+
+
+{"id":1, "name":"Aman", "age":21, "course":"Btech"}
+{"id":5, "name":"Aman", "age":21, "course":"Btech"}
+{"id":7, "name":"Aman", "age":21, "course":"Btech"}
+{"id":8, "name":"Aman", "age":21, "course":"Btech"}
+{"id":2, "name":"Aman", "age":21, "course":"Btech"}
+{"id":3, "name":"Aman", "age":21, "course":"Btech"}
+{"id":9, "name":"Aman", "age":21, "course":"Btech"}
+{"id":4, "name":"Aman", "age":21, "course":"Btech"}
+{"id":6, "name":"Aman", "age":21, "course":"Btech"}
+{"id":10, "name":"Aman", "age":21, "course":"Btech"}
